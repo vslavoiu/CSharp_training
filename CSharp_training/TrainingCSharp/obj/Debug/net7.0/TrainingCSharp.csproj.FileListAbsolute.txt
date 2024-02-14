@@ -1,0 +1,14 @@
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\bin\Debug\net7.0\TrainingCSharp.exe
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\bin\Debug\net7.0\TrainingCSharp.deps.json
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\bin\Debug\net7.0\TrainingCSharp.runtimeconfig.json
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\bin\Debug\net7.0\TrainingCSharp.dll
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\bin\Debug\net7.0\TrainingCSharp.pdb
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\obj\Debug\net7.0\TrainingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\obj\Debug\net7.0\TrainingCSharp.AssemblyInfoInputs.cache
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\obj\Debug\net7.0\TrainingCSharp.AssemblyInfo.cs
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\obj\Debug\net7.0\TrainingCSharp.csproj.CoreCompileInputs.cache
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\obj\Debug\net7.0\TrainingCSharp.dll
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\obj\Debug\net7.0\refint\TrainingCSharp.dll
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\obj\Debug\net7.0\TrainingCSharp.pdb
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\obj\Debug\net7.0\TrainingCSharp.genruntimeconfig.cache
+C:\Workspace\endava_csharpautomation-training\VictorSlavoiu\CSharp_training\TrainingCSharp\obj\Debug\net7.0\ref\TrainingCSharp.dll
